@@ -52,6 +52,14 @@ ProxyCC 是一个专注于 AI 大模型 API 中转服务的**导航对比平台*
 
 ---
 
+## 📖 热门教程
+
+- [Claude Code 国内使用教程](https://proxycc.cc/guide/claude-code)
+- [OpenAI API 中转接入指南](https://proxycc.cc/guide/openai)
+- [使用指南](https://proxycc.cc/guide)
+
+---
+
 ## 🌟 为什么选择 ProxyCC？
 
 | 特性 | ProxyCC | 其他 |
